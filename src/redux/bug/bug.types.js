@@ -1,0 +1,6 @@
+export const LOADING = 'AUTH/LOADING'
+export const SUCCESS = 'AUTH/SUCCESS'
+export const ERROR = 'AUTH/ERROR'
+export const ADDBUG = 'AUTH/ADDBUG'
+export const DELETEBUG = 'AUTH/DELETEBUG'
+export const GETALLBUGS = 'AUTH/GETALLBUGS'

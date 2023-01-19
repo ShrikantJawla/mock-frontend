@@ -1,0 +1,5 @@
+export const LOADING = 'AUTH/LOADING'
+export const SUCCESS = 'AUTH/SUCCESS'
+export const ERROR = 'AUTH/ERROR'
+export const LOGIN = 'AUTH/LOGIN'
+export const LOGOUT = 'AUTH/LOGOUT'
